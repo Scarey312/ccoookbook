@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ccoookbook/static/css/main.073c9b0a.css",
-    "main.js": "/ccoookbook/static/js/main.bc44c3bd.js",
+    "main.js": "/ccoookbook/static/js/main.f7d7fd3a.js",
     "static/js/787.30bf2944.chunk.js": "/ccoookbook/static/js/787.30bf2944.chunk.js",
     "service-worker.js": "/ccoookbook/service-worker.js",
     "index.html": "/ccoookbook/index.html",
     "main.073c9b0a.css.map": "/ccoookbook/static/css/main.073c9b0a.css.map",
-    "main.bc44c3bd.js.map": "/ccoookbook/static/js/main.bc44c3bd.js.map",
+    "main.f7d7fd3a.js.map": "/ccoookbook/static/js/main.f7d7fd3a.js.map",
     "787.30bf2944.chunk.js.map": "/ccoookbook/static/js/787.30bf2944.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.bc44c3bd.js"
+    "static/js/main.f7d7fd3a.js"
   ]
 }
